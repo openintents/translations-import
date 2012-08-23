@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openintents\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-05-19 14:42+0000\n"
-"PO-Revision-Date: 2012-01-20 16:59+0000\n"
-"Last-Translator: Peli <peli0101@googlemail.com>\n"
+"POT-Creation-Date: 2012-08-08 12:13+0000\n"
+"PO-Revision-Date: 2012-08-08 12:49+0000\n"
+"Last-Translator: Stanley <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-20 04:39+0000\n"
-"X-Generator: Launchpad (build 15259)\n"
+"X-Launchpad-Export-Date: 2012-08-09 05:01+0000\n"
+"X-Generator: Launchpad (build 15761)\n"
 "Language: de\n"
 
 #. Title for preferences or settings
@@ -34,6 +34,7 @@ msgstr ""
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanley https://launchpad.net/~wurfkeks\n"
 "  appricoo https://launchpad.net/~appricoo"
 
 #. Short explanation of the application (max. 80 characters)
@@ -60,17 +61,9 @@ msgstr "Farbe"
 msgid "OI Color Picker"
 msgstr "OI Color Picker"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Farbe beibehalten"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "Farbe für den nächsten Start von Flashlight speichern"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but
 #. user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -78,20 +71,41 @@ msgstr ""
 "Um den Color Picker für andere Entwickler nützlicher zu machen, haben wir "
 "ihn in eine eigene Anwendung ausgelagert."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "Benutze den Kamera Blitz"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "Benutze den Kamera Blitz anstelle der Bildschirmbeleuchtung."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr ""
 "Klicken Sie, um das Kameralicht zu aktivieren. (Kann einige Sekunden dauern)"
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "Klicken Sie, um das Kameralicht zu deaktivieren."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr "Farb-Optionen"
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+"Wähle, ob die Farbe gespeichert oder eine zufällige angezeigt werden soll."
+
+#: tmp_strings.xml:51(item)
+msgid "Keep Color"
+msgstr "Farbe behalten"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr "Zufällige Farbe"
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr "Weiß"

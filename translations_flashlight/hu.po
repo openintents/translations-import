@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openintents\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-05-19 14:42+0000\n"
+"POT-Creation-Date: 2012-08-08 12:13+0000\n"
 "PO-Revision-Date: 2012-02-09 03:52+0000\n"
 "Last-Translator: Martin Bede <bmartin9x@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-20 04:39+0000\n"
-"X-Generator: Launchpad (build 15259)\n"
+"X-Launchpad-Export-Date: 2012-08-09 05:01+0000\n"
+"X-Generator: Launchpad (build 15761)\n"
 "Language: hu\n"
 
 #. Automatically filled in by Launchpad:
@@ -53,35 +53,47 @@ msgstr ""
 msgid "Preferences"
 msgstr "Beállítások"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr ""
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr ""
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but
 #. user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
 msgstr ""
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr ""
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr ""
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr ""
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
+msgstr ""
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+msgid "Keep Color"
+msgstr ""
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
 msgstr ""

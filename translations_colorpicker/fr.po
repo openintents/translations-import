@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: openintents\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-19 14:43+0000\n"
-"PO-Revision-Date: 2012-03-23 12:37+0000\n"
+"PO-Revision-Date: 2012-06-22 10:41+0000\n"
 "Last-Translator: Tanguy Herrmann <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-20 04:41+0000\n"
-"X-Generator: Launchpad (build 15259)\n"
+"X-Launchpad-Export-Date: 2012-06-23 05:03+0000\n"
+"X-Generator: Launchpad (build 15461)\n"
 "Language: fr\n"
 
 #. Automatically filled in by Launchpad:
@@ -27,7 +27,8 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Anges https://launchpad.net/~az24\n"
 "  Peli https://launchpad.net/~peli0101\n"
-"  Tanguy Herrmann https://launchpad.net/~dolanor"
+"  Tanguy Herrmann https://launchpad.net/~dolanor\n"
+"  Thibault Févry https://launchpad.net/~thibaultfevry"
 
 #. Strings for OI About
 #: tmp_strings.xml:11(string)
@@ -135,7 +136,7 @@ msgstr ""
 
 #: tmp_strings.xml:55(string)
 msgid "Anime Character Generator"
-msgstr ""
+msgstr "Générateur de personnage d'anime."
 
 #: tmp_strings.xml:58(string)
 msgid "This app can be used with the following applications:"

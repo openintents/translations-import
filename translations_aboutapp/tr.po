@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: openintents\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-19 14:43+0000\n"
-"PO-Revision-Date: 2011-12-04 18:34+0000\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"PO-Revision-Date: 2012-07-07 23:55+0000\n"
+"Last-Translator: zeugma <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-20 04:39+0000\n"
-"X-Generator: Launchpad (build 15259)\n"
+"X-Launchpad-Export-Date: 2012-07-09 04:51+0000\n"
+"X-Generator: Launchpad (build 15558)\n"
 "Language: tr\n"
 
 #. Automatically filled in by Launchpad:
@@ -122,15 +122,15 @@ msgstr "Arapça"
 
 #: tmp_strings.xml:80(item)
 msgid "Belarusian"
-msgstr ""
+msgstr "Belarus dili"
 
 #: tmp_strings.xml:81(item)
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgarca"
 
 #: tmp_strings.xml:82(item)
 msgid "Catalan"
-msgstr ""
+msgstr "Katalonca"
 
 #: tmp_strings.xml:83(item)
 msgid "Czech"
@@ -154,7 +154,7 @@ msgstr "İngilizce"
 
 #: tmp_strings.xml:88(item)
 msgid "English (United Kingdom)"
-msgstr ""
+msgstr "İngilizce (Birleşik Krallık)"
 
 #: tmp_strings.xml:89(item)
 msgid "Spanish"
@@ -194,7 +194,7 @@ msgstr "İtalyanca"
 
 #: tmp_strings.xml:98(item)
 msgid "Hebrew"
-msgstr ""
+msgstr "İbranice"
 
 #: tmp_strings.xml:99(item)
 msgid "Japanese"
@@ -210,11 +210,11 @@ msgstr "Lao Dili"
 
 #: tmp_strings.xml:102(item)
 msgid "Latvian"
-msgstr ""
+msgstr "Letonca"
 
 #: tmp_strings.xml:103(item)
 msgid "Macedonian"
-msgstr ""
+msgstr "Makedonca"
 
 #: tmp_strings.xml:104(item)
 msgid "Norwegian Bokmal"
@@ -230,7 +230,7 @@ msgstr "Eski Katalanca (1500 yılından sonra)"
 
 #: tmp_strings.xml:107(item)
 msgid "Punjabi"
-msgstr ""
+msgstr "Pencapça"
 
 #: tmp_strings.xml:108(item)
 msgid "Polish"
@@ -266,7 +266,7 @@ msgstr "Slovakça"
 
 #: tmp_strings.xml:116(item)
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovence"
 
 #: tmp_strings.xml:117(item)
 msgid "Swedish"
@@ -282,7 +282,7 @@ msgstr "Türkçe"
 
 #: tmp_strings.xml:120(item)
 msgid "Uyghur"
-msgstr ""
+msgstr "Uygurca"
 
 #: tmp_strings.xml:121(item)
 msgid "Chinese (Simplified)"
