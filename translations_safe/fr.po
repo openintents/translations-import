@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: openintents\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-08-08 12:13+0000\n"
-"PO-Revision-Date: 2012-08-08 15:07+0000\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"PO-Revision-Date: 2012-08-17 07:54+0000\n"
+"Last-Translator: Stanislas Michalak <stanislas.michalak@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-09 05:03+0000\n"
-"X-Generator: Launchpad (build 15761)\n"
+"X-Launchpad-Export-Date: 2012-08-28 06:46+0000\n"
+"X-Generator: Launchpad (build 15864)\n"
 "Language: fr\n"
 
 #. Automatically filled in by Launchpad:
@@ -29,6 +29,7 @@ msgstr ""
 "  Matěj Konečný https://launchpad.net/~matejkon\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanislas Michalak https://launchpad.net/~stanislas-michalak\n"
 "  Tanguy Herrmann https://launchpad.net/~dolanor\n"
 "  beudbeud https://launchpad.net/~beudbeud\n"
 "  kartik https://launchpad.net/~b-ballkartik96"
@@ -865,7 +866,7 @@ msgstr "*"
 
 #: tmp_strings.xml:257(string)
 msgid "Invalid URL"
-msgstr ""
+msgstr "URL invalide"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
